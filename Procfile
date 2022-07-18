@@ -1,0 +1,1 @@
+web: gunicorn matazim.wsgi --log-file -
