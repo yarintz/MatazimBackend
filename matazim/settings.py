@@ -66,7 +66,7 @@ REST_FRAMEWORK = {
 }
 
 CORS_ORIGIN_WHITELIST = [
-    #"https://matazim-project.web.app/"
+     "https://matazim-frontend.web.app/"
      "http://localhost:3000"
 ]
 
